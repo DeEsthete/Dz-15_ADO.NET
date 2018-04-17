@@ -1,0 +1,13 @@
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\Dz-15.exe.config
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\Dz-15.exe
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\Dz-15.pdb
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\EntityFramework.dll
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\EntityFramework.xml
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\павлове\source\repos\Dz-15\Dz-15\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\павлове\source\repos\Dz-15\Dz-15\obj\Debug\Dz-15.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\Dz-15\Dz-15\obj\Debug\Dz-15.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\Dz-15\Dz-15\obj\Debug\Dz-15.csproj.CopyComplete
+c:\users\павлове\source\repos\Dz-15\Dz-15\obj\Debug\Dz-15.exe
+c:\users\павлове\source\repos\Dz-15\Dz-15\obj\Debug\Dz-15.pdb
